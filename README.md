@@ -15,4 +15,6 @@ unite testing in python
 * to run 2 options:
   * to run all tests: terminal -> pytest . - will run with colors.
   * run "play" and select what to test
+
+## 
   
